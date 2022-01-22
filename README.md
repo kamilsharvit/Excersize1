@@ -13,13 +13,16 @@
 כעת בתוך רשימת הcounts נמצא התדירויות של כל שם לפי האינדקס של הרשימה countsName
 לדוגמא:
 כאשר נקלט:
+
 countNames: {"yakov",3} {""jacob",4},{"sara",2}
+
 names:  {"yakov",jacob"}
+
 אז רשימת הcounts תיראה:
 
 ![image](https://user-images.githubusercontent.com/89073905/150659270-73e90bea-9b57-4afe-a343-ff51cbb6ad85.png)
 
-מעבר על רשימת countsNames והצגת השם עם המספר התדירויות לפי רשימת הcounts
+מעבר על רשימת countsNames והצגת השם עם המספר התדירויות לפי רשימת הcounts במקרה שיש -1 הוא מדלג כי כבר הוסיפו אותו
 
 ![image](https://user-images.githubusercontent.com/89073905/150659220-67ea5c98-f70b-44d1-bd85-5a9cd9a91460.png)
 
