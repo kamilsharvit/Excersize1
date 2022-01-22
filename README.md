@@ -14,9 +14,18 @@
 לדוגמא:
 כאשר נקלט:
 
-countNames: {"yakov",3} {""jacob",4},{"sara",2}
+ {"yakov",3} {""jacob",4},{"sara",2}
 
-names:  {"yakov",jacob"}
+ {"yakov",jacob"}
+ 
+ רשימת הcountsName תיראה:
+ 
+ {"yakov",0} {"jacob" ,1} {"sara",2}
+ 
+ ורשימת names:
+ 
+  {"yakov",jacob"}
+ 
 
 אז רשימת הcounts תיראה:
 
