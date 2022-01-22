@@ -15,6 +15,7 @@
 countNames:  }"yakov",3} {""jacob",4},{"sara",2}
 names:  {"yakov",jacob"}
 אז רשימת הcounts תיראה:
+
 ![image](https://user-images.githubusercontent.com/89073905/150659151-a7caf19c-0d83-47a6-a2ae-13e93cde74b5.png)
 מעבר על רשימת countsNames והצגת השם עם המספר התדירויות לפי רשימת הcounts
 
