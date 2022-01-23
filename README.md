@@ -29,7 +29,7 @@
 
 אז רשימת הcounts תיראה:
 
-![image](https://user-images.githubusercontent.com/89073905/150659270-73e90bea-9b57-4afe-a343-ff51cbb6ad85.png)
+![image](https://user-images.githubusercontent.com/89073905/150659400-f4112226-dda2-4e4c-98ae-22d9e3c12f88.png)
 
 מעבר על רשימת countsNames והצגת השם עם המספר התדירויות לפי רשימת הcounts במקרה שיש -1 הוא מדלג כי כבר הוסיפו אותו
 
