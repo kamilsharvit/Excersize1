@@ -32,6 +32,8 @@
 
 ![image](https://user-images.githubusercontent.com/89073905/150659400-f4112226-dda2-4e4c-98ae-22d9e3c12f88.png)
 
+
+
 מעבר על רשימת countsNames והצגת השם עם המספר התדירויות לפי רשימת הcounts במקרה שיש -1 הוא מדלג כי כבר הוסיפו אותו
 
 ![image](https://user-images.githubusercontent.com/89073905/150659220-67ea5c98-f70b-44d1-bd85-5a9cd9a91460.png)
